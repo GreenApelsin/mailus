@@ -1,0 +1,32 @@
+.conteiner mt-4 {
+    margin-top: 4px;
+  
+}
+.row{
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    margin: 0 15px;
+}
+.conteiner {
+    max-width: 1200px;
+    margin: 0 auto;
+} 
+.col{
+    padding: 20px 30px;
+    max-width: 450px;
+    margin: 0 auto;
+}
+.prof-pag{
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 20px;
+}
+.prof-load{
+    height: 38px;
+    margin: 4px 0;
+}
+@media (max-width: 500px){
+.lolp{
+margin-bottom: 15px;
+}
+}
